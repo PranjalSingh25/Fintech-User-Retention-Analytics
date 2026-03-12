@@ -1,0 +1,8 @@
+project_id,client,region,fleet_size,deployment_status,pct_timeline_elapsed,cumulative_planned_usd,cumulative_actual_usd,overrun_pct,projected_final_spend_usd,projected_overrun_usd,total_planned_usd,health_score,is_critical_overrun,is_warning_overrun,overrun_pct_display,pct_timeline_display,status_flag
+AMR-006,Unilever - Rotterdam DC,EMEA,10,Monitoring,1.0,692880.27,717769.74,0.0359,717769.74,24889.47,692880.27,89.2,False,False,3.6,100.0,🟢 ON TRACK
+AMR-004,Bosch - Stuttgart Plant,EMEA,15,Monitoring,1.0,760510.79,782697.8,0.0292,782697.8,22187.01,760510.79,91.2,False,False,2.9,100.0,🟢 ON TRACK
+AMR-007,Foxconn - Shenzhen Assembly,APAC,25,Monitoring,1.0,1409912.36,1449377.69,0.028,1449377.69,39465.33,1409912.36,91.6,False,False,2.8,100.0,🟢 ON TRACK
+AMR-002,Coca-Cola - Atlanta Warehouse,NORTH AMERICA,8,Monitoring,1.0,741304.08,760787.99,0.0263,760787.99,19483.91,741304.08,92.1,False,False,2.6,100.0,🟢 ON TRACK
+AMR-005,Amazon - Dallas FC,NORTH AMERICA,30,Monitoring,1.0,1220179.69,1248466.3,0.0232,1248466.3,28286.61,1220179.69,93.0,False,False,2.3,100.0,🟢 ON TRACK
+AMR-001,Ford Motor - Michigan Facility,NORTH AMERICA,12,Monitoring,1.0,836104.43,853993.94,0.0214,853993.94,17889.51,836104.4299999999,93.6,False,False,2.1,100.0,🟢 ON TRACK
+AMR-003,DHL - Singapore Hub,APAC,20,Monitoring,1.0,1045972.01,1067561.29,0.0206,1067561.29,21589.28,1045972.01,93.8,False,False,2.1,100.0,🟢 ON TRACK

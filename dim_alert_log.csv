@@ -1,0 +1,6 @@
+alert_type,project_id,client,region,alert_date,deployment_status,overrun_pct,overrun_usd,projected_overrun_usd,health_score
+CRITICAL,AMR-003,DHL - Singapore Hub,APAC,2024-03-10,Planning,11.18,580.29,131662.68,66.5
+WARNING,AMR-001,Ford Motor - Michigan Facility,NORTH AMERICA,2024-01-17,Planning,5.24,663.05,40696.23,84.3
+WARNING,AMR-002,Coca-Cola - Atlanta Warehouse,NORTH AMERICA,2024-02-07,Planning,6.31,1674.35,48519.45,81.1
+WARNING,AMR-006,Unilever - Rotterdam DC,EMEA,2024-02-19,Planning,6.99,1220.15,44986.13,79.0
+WARNING,AMR-007,Foxconn - Shenzhen Assembly,APAC,2024-05-23,Planning,5.52,7287.34,68433.24,83.4
